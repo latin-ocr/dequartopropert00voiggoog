@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./dequartopropert00voiggoog_0003.png"; bbox 0 0 1021 1517; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 332 821 628 928">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 332 821 628 928">
+     <span class='ocr_line' id='line_1_1' title="bbox 402 821 580 836; baseline -0.022 0"><span class='ocrx_word' id='word_1_1' title='bbox 402 824 455 836; x_wconf 78' lang='lat' dir='ltr'>THE</span> <span class='ocrx_word' id='word_1_2' title='bbox 470 822 534 834; x_wconf 76' lang='lat' dir='ltr'>GIFT</span> <span class='ocrx_word' id='word_1_3' title='bbox 549 821 580 833; x_wconf 74' lang='lat' dir='ltr'>OF</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 332 849 628 868; baseline -0.024 1"><span class='ocrx_word' id='word_1_4' title='bbox 332 849 337 860; x_wconf 35' lang='grc' dir='ltr'>ζ’</span> <span class='ocrx_word' id='word_1_5' title='bbox 355 855 469 868; x_wconf 67' lang='grc' dir='ltr'>ετΕΡΗΕΠ</span> <span class='ocrx_word' id='word_1_6' title='bbox 482 851 628 865; x_wconf 65' lang='lat' dir='ltr'>SALXEBURY,</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 399 882 583 897; baseline -0.033 0"><span class='ocrx_word' id='word_1_7' title='bbox 399 886 419 897; x_wconf 72' lang='lat' dir='ltr'>or</span> <span class='ocrx_word' id='word_1_8' title='bbox 428 883 533 896; x_wconf 65' lang='lat' dir='ltr'>woucnswzn,</span> <span class='ocrx_word' id='word_1_9' title='bbox 541 882 583 893; x_wconf 63' lang='lat' dir='ltr'>:mss</span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 435 913 551 928; baseline -0.026 -1"><span class='ocrx_word' id='word_1_10' title='bbox 435 916 479 928; x_wconf 73' lang='lat' dir='ltr'>(mus</span> <span class='ocrx_word' id='word_1_11' title='bbox 486 914 502 925; x_wconf 77' lang='lat' dir='ltr'>of</span> <span class='ocrx_word' id='word_1_12' title='bbox 508 913 551 925; x_wconf 44' lang='lat'>1817&amp;</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 236 313 743 1146">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 236 313 743 1146">
+     <span class='ocr_line' id='line_1_5' title="bbox 236 313 743 1146; baseline 0 0"><span class='ocrx_word' id='word_1_13' title='bbox 236 313 743 1146; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 262 1321 501 1443">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 262 1321 501 1443">
+     <span class='ocr_line' id='line_1_6' title="bbox 262 1321 501 1443; baseline 0 74"><span class='ocrx_word' id='word_1_14' title='bbox 262 1321 501 1443; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
